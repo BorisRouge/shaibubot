@@ -1,0 +1,5 @@
+# created by virtualenv automatically
+venv/
+pyvenv.cfg
+*.log
+/__pycache__/
